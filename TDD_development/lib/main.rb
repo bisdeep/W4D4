@@ -31,7 +31,4 @@ class Array
         pairs[margin.index(margin.max)]
     end
 
-
-
-
 end
